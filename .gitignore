@@ -217,3 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .claude
+
+# Project-specific
+notebooks/modeling2.ipynb
+ttYINgpDAx5aUBwk-main/
+
